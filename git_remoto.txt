@@ -1,0 +1,3 @@
+git clone - baixar um repositório remoto
+git pull - atualizar o git local com a informação da nova branch criada no repositorio remoto
+git push - enviar informação atualizada para o Github
